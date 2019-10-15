@@ -4,7 +4,7 @@
 
     <groupId>com.github.claremontqualitymanagement</groupId>
     <artifactId>taf.mqsupport</artifactId>
-    <version>4.0.0</version>
+    <version>4.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>TAF - MQ support</name>
     <url>https://github.com/claremontqualitymanagement/TAF.MqSupport</url>
@@ -37,7 +37,7 @@
         <connection>scm:git:git://github.com/claremontqualitymanagement/TAF.MqSupport.git</connection>
         <developerConnection>scm:git://github.com/claremontqualitymanagement/TAF.MqSupport.git</developerConnection>
         <url>https://github.com/claremontqualitymanagement/TAF.MqSupport</url>
-        <tag>taf.mqsupport-4.0.0</tag>
+        <tag>taf.mqsupport</tag>
     </scm>
 
     <dependencies>
